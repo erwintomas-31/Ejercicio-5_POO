@@ -37,6 +37,6 @@ public abstract class Modulo {
 
     @Override
     public String toString() {
-        return "Salud: " + salud + " Activo: " + activo + " Costo de construcción: Q." + costoConstruccion;
+        return "Id: " + id + " Nombre: " + nombre + " Salud: " + salud + " Activo: " + activo + " Costo de construcción: Q." + costoConstruccion;
     }
 }
